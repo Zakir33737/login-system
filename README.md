@@ -17,3 +17,5 @@ This project is a simple login and signup system using Python and file handling.
 
 ## Author
 Ghulam Zakir
+## Screenshot
+![App Screenshot](screenshot.png)
